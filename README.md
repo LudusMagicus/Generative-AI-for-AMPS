@@ -1,10 +1,6 @@
 # Generative-AI-for-AMPS
 
-# 🧬 AI-Driven Discovery of Novel Antimicrobial Peptides Against Drug Resistance
-
-**Project ID:** HS-BCOM-292  
-**Category:** Computational Biology & Bioinformatics  
-**Level:** High School — Individual  
+# AI-Driven Discovery of Novel Antimicrobial Peptides Against Drug Resistance
 
 > An end-to-end deep learning pipeline that generates novel antimicrobial peptide (AMP) candidates against drug-resistant superbugs using LSTM neural networks — extended with a first-of-its-kind paleogenomics fine-tuning system that mines the immune systems of extinct species (Neanderthal, Woolly Mammoth, *Homo heidelbergensis*) to explore untapped evolutionary sequence space.
 
