@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Background & Motivation](#background--motivation)
 - [What Are AMPs?](#what-are-amps)
